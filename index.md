@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages YAY
 
 You can use the [editor on GitHub](https://github.com/cindybae/teste/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
